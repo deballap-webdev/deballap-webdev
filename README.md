@@ -1,92 +1,120 @@
-# Hi 👋, I'm Deborah
+# Hi, I'm Deborah 👋
 
-### Aspiring Software Engineer | Frontend Developer in Training 🚀
+### Aspiring Software Engineer | Frontend Developer
 
-I'm a developer currently learning how to build software
-through hands-on projects.
+I'm a self-taught developer passionate about building practical, user-focused web applications and continuously improving my understanding of software development.
 
-I enjoy taking ideas from scratch, figuring out how things work,
-and gradually turning them into working applications.
+I started my coding journey in May 2026, and since then, I've been focused on developing a solid foundation in frontend development through consistent learning, hands-on projects, and experimenting with new technologies.
 
-## 👩🏽‍💻 About Me
+I believe good development isn't just about making something work. It's also about understanding why it works, writing maintainable code, and continuously finding ways to improve it.
 
-- 🌱 Currently focused on **JavaScript and Frontend Development**
-- 🧩 Learning to write more modular, readable, and maintainable code
-- 🚀 Building projects to strengthen my problem-solving skills
-- 📚 Learning through documentation, experimentation, and code reviews
-- 🎯 Working toward becoming a well-rounded Software Engineer
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack & Tools
 
 ### Currently Working With
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="45" alt="Tailwind CSS"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" width="45" alt="TypeScript"/>
+  </a>
+</p>
 
-### Learning Next
+<p align="left">
+  HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; JavaScript &nbsp;&nbsp;&nbsp; Tailwind CSS &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; TypeScript
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+### Currently Exploring
 
-## 🚀 Projects
+- Zod
+- Jest
+- Vitest
+- React Testing Library
+- React with TypeScript
 
-### 🌦️ Weather App
+### Development Tools & Technologies
 
-A responsive weather application built with vanilla JavaScript.
+<p align="left">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" width="45" alt="Visual Studio Code"/>
+  </a>
+  <a href="https://vite.dev/">
+    <img src="https://skillicons.dev/icons?i=vite" width="45" alt="Vite"/>
+  </a>
+</p>
 
-Features include:
+Git · GitHub · VS Code · Vite · Chart.js · REST APIs
 
-- Location search and search suggestions
-- Current weather information
-- 7-day forecast
-- Hourly forecast
-- Unit conversion
-- Session-based caching
-- API error handling
-- Retry functionality
-- Responsive design
+## 🚀 Featured Projects
 
-🔗 [View Repository](https://github.com/deballap-webdev/frontend-mentor-weather-app)
+### [Spend Wise](https://github.com/deballap-webdev/spend-wise)
 
-## 🌱 What I'm Currently Working On
+A personal finance management application built with React. Features include transaction management, budgeting, savings goals, dashboard analytics, and more.
 
-I'm currently focusing on becoming better at:
+### [Forex Checker](https://github.com/deballap-webdev/forex-checker)
 
-- JavaScript
-- Asynchronous programming
-- API integration
-- Application architecture
-- State management
-- Error handling
-- Writing modular code
-- Problem solving
+A foreign exchange application built with JavaScript and Tailwind CSS. It uses exchange rate APIs and Chart.js to display currency conversion data and historical trends.
 
-I'm also learning to recognize areas where my code can be improved rather than assuming the first working solution is the best one.
+### [Weather App](https://github.com/deballap-webdev/frontend-mentor-weather-app)
 
-## 📈 My Development Journey
+A responsive weather application built with vanilla JavaScript, featuring current weather conditions, hourly forecasts, a seven-day forecast, and location search.
 
-I'm still early in my software development journey, so I'm focused on
-learning the fundamentals properly and building increasingly complex
-projects.
+## 📚 Currently Learning
 
-I believe good development isn't just about making something work —
-it's also about understanding **why it works, how it can be maintained,
-and how it can be improved.**
+I'm currently strengthening my TypeScript fundamentals and exploring how to integrate TypeScript into React applications.
 
-## 🤝 Connect With Me
+My learning approach is project-driven: I prefer understanding concepts, applying them in practical projects, and revisiting my code to identify areas for improvement.
 
-- 🐙 [GitHub](https://github.com/deballap-webdev)
-- 🎨 [Frontend Mentor](https://www.frontendmentor.io/profile/deballap-webdev)
-- 📸 [Instagram](https://www.instagram.com/debb13.a/)
-- 𝕏 [X](https://x.com/AllaputaDe35387)
-- 💼 [LinkedIn](https://www.linkedin.com/in/deborah-allaputa-a41a26426/)
+## 🎯 My Goals
 
----
+- Become proficient in modern frontend development.
+- Build applications with clean, maintainable, and scalable code.
+- Strengthen my understanding of software engineering fundamentals.
+- Gradually expand into backend development and full-stack engineering.
+- Contribute to meaningful projects and collaborate with other developers.
 
-⭐ Thanks for visiting my profile!
+## 🤝 Let's Connect
 
+<p align="left">
+  <a href="https://github.com/deballap-webdev" style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=github" width="22" alt="GitHub"/>
+    <span>GitHub</span>
+  </a>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/deborah-allaputa-a41a26426/" style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="22" alt="LinkedIn"/>
+    <span>LinkedIn</span>
+  </a>
+  <br/><br/>
+  <a href="https://www.frontendmentor.io/profile/deballap-webdev" style="display: inline-flex; align-items: center; gap: 8px;">
+    <span>🏆</span>
+    <span>Frontend Mentor</span>
+  </a>
+  <br/><br/>
+  <a href="https://x.com/AllaputaDe35387" style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="18" alt="X"/>
+    <span>X (Twitter)</span>
+  </a>
+  <br/><br/>
+  <a href="https://www.instagram.com/debb13.a/" style="display: inline-flex; align-items: center; gap: 8px;">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="20" alt="Instagram"/>
+    <span>Instagram</
